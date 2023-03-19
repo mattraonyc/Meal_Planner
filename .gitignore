@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Meal Planner (Java)/task/build/
+/Meal Planner (Java)/task/out/
+/Meal Planner (Java)/task/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
